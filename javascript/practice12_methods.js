@@ -7,7 +7,7 @@ function print(){
 
 // create a function that accept 1 param
 
-function sayHelloTo(name){
+export function sayHelloTo(name){
     console.log(name);
 
 }
